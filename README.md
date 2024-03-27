@@ -16,5 +16,5 @@ Prerequisites
          2. Nodejs installed
 Running the app
 
-In api directory , open cmd and type node index.js (to install the dependencies defined in package.json file)
+In api directory , open cmd and type node index.js 
 In client directory , open cmd and type npm start and go to the browser and type localhost:3000 to run the application.
